@@ -1,0 +1,16 @@
+{
+    "Tea": {
+        "ingredients": [
+            " Water",
+            " Milk",
+            " Tea Power",
+            " sugar"
+        ],
+        "steps": [
+            "Boil water",
+            " add tea power",
+            " add milk",
+            " add sugar"
+        ]
+    }
+}
